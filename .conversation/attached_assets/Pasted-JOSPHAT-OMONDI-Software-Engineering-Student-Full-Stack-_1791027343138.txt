@@ -1,0 +1,75 @@
+JOSPHAT OMONDI
+Software Engineering Student | Full Stack Developer | AI & Machine Learning
+📞 0797 670 230
+✉️ omondijosephat2005@gmail.com
+🌐 GitHub: https://github.com/Josephat200
+Professional Summary
+Results-driven Software Engineering student and Full Stack Developer with practical experience in web development, artificial intelligence, machine learning, data analysis, and database management. Currently pursuing a Bachelor of Science in Software Engineering at Kirinyaga University, with a growing specialization in Artificial Intelligence and Machine Learning.
+
+Completed a 14-week industrial attachment at the Kenya Medical Research Institute (KEMRI), Centre for Global Health Research (CGHR), Kisian, Kisumu County, strengthening competencies in web development, data preparation and cleaning, exploratory data analysis, machine learning, database management, and version control.
+
+Core Technical Skills
+Programming & Web	HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, Express.js, PHP, Python, REST APIs, Responsive Web Design
+AI, ML & Data	Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Exploratory Data Analysis, Data Cleaning, Data Visualization, Streamlit
+Databases	MySQL, PostgreSQL, MongoDB, SQLite, Database Design & Management, SQL Optimization
+Tools & Platforms	Git, GitHub, VS Code, Jupyter Notebook, Streamlit, Netlify, Render, Replit, Docker (Basic)
+Professional Skills	Problem Solving, Full Stack Application Development, Team Collaboration, Technical Documentation
+Professional Experience
+Software Engineering Intern – Industrial Attachment
+Kenya Medical Research Institute (KEMRI) – CGHR
+Kisian, Kisumu County
+4 May 2026 – 8 Aug 2026 | 14 Wks
+Developed and enhanced web-based solutions and applications using modern front-end and back-end technologies.
+Designed responsive and user-friendly web interfaces for organizational and institutional applications.
+Utilized Python libraries including Pandas and NumPy for data preparation, cleaning, exploration, and analysis.
+Performed exploratory data analysis (EDA) and data visualization to identify patterns and useful insights from datasets.
+Applied machine learning concepts to classification and clustering problems, and managed relational databases with SQL.
+Josphat Omondi – Curriculum Vitae
+Page 1 of 2
+Selected Projects & Sample Web Applications
+1. Adah Foundation – Web Application
+Live: https://adahfoundation.netlify.app/
+Designed and developed a responsive web application for Adah Foundation, providing a modern user interface and structured digital platform for organizational outreach.
+
+2. Quantora Technologies – Corporate Web Application
+Live: https://dev.plankraftinternational.com/
+Designed and developed a professional corporate web platform featuring modern user-interface architecture, responsive layouts, and structured content presentation.
+
+3. Ober Boys High School – Web Frontend
+Live: https://idyllic-naiad-c42658.netlify.app/
+Developed a responsive institutional web frontend incorporating structured page layouts, navigation components, and optimized static web assets.
+
+4. Crime Hotspot Detection System
+Repo: https://github.com/Josephat200/crime-incident-detection-.git
+Developed a geospatial analytics application for identifying and visualizing crime incident hotspots using machine learning clustering techniques (K-Means, DBSCAN, Streamlit).
+
+5. Iris Flower Classification Platform
+Repo: https://github.com/Josephat200/iris-flower-machine-learning.git
+Built a supervised machine learning classification application capable of classifying Iris flowers into different species using Scikit-learn and an interactive Streamlit interface.
+
+6. Enterprise Finance Management System
+Live: https://finance-jtmt.onrender.com/
+Developed a full-stack financial management application supporting transaction entry, financial monitoring, data management, and reporting functionality.
+
+Education & Training
+Bachelor of Science in Software Engineering | Kirinyaga University (2024 – Present)
+Industrial Attachment (14 Wks) | KEMRI CGHR, Kisian (May – Aug 2026) | Supervised by Ian Orege (0737025299) & Walter Oloo (0726396746)
+Computer Packages – Distinction | Roba Computer School (2024)
+KCSE | Ober Boys High School (2020 – 2023) | Primary Education | Kandiege Primary School (2019)
+Certifications & Achievements
+Participant – Computer Society of Kenya Hackathon: Rapid software development and prototyping under competitive deadlines.
+Industrial Attachment Completion: Successful 14-week professional technical placement at KEMRI CGHR.
+Professional Referees
+Ian Orege
+HOD, Influenza Prog., KEMRI CGHR
+📞 0737025299
+Walter Oloo
+Chief Tech. & Auditor, KEMRI CGHR
+📞 0726396746
+David Gachohi
+Lecturer & Mentor, Kirinyaga Univ.
+📞 0709744000
+Arch. Mwita
+Professional Collaborator / Mentor
+📞 0759033710
+Josphat Omondi – Curriculum Vitae

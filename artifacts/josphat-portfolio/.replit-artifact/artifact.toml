@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Josphat Omondi — Portfolio"
+description = "A personal portfolio for Josphat Omondi, a software engineering student and full-stack developer focused on web applications, AI, machine learning, and data analysis. Showcases selected work, experience, education, skills, and direct contact links."
+version = "1.0.0"
+id = "artifacts/josphat-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24945
+
+[services.development]
+run = "pnpm --filter @workspace/josphat-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/josphat-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/josphat-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24945"
+BASE_PATH = "/"
