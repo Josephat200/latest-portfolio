@@ -1,0 +1,6 @@
+[build]
+command = "PORT=4173 BASE_PATH=/ pnpm --filter @workspace/josphat-portfolio run build"
+publish = "artifacts/josphat-portfolio/dist/public"
+
+[build.environment]
+NODE_VERSION = "24"
